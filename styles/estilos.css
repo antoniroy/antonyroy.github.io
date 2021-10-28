@@ -1,0 +1,31 @@
+
+    h1{color: #ffff00;
+        font-family: monospace;
+        font-size: 40px;
+        background-color: salmon;
+        padding: 20px;
+        border:20px solid #6200ea;
+        /*margin: 50px;*/
+    
+    }
+        
+    p{
+        color: #6200ea;
+        background-color:honeydew ;
+        font-size: 100px;
+        font-family: serif;
+        padding: 15px;
+        border: 10px solid #ff5252;
+        /* margin-top: 40px;
+        margin-bottom: 40px;
+        margin-left: 20px;
+        margin-right: 20px;
+        */
+        /*margin: 40px 20px 40px 20px;*/
+        margin: auto 50px;
+        text-align: center;
+        
+
+     
+
+    }
